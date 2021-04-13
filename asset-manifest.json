@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Product-Page/static/css/main.340e82d4.chunk.css",
+    "main.js": "/React-Product-Page/static/js/main.308a12a8.chunk.js",
+    "main.js.map": "/React-Product-Page/static/js/main.308a12a8.chunk.js.map",
+    "runtime-main.js": "/React-Product-Page/static/js/runtime-main.54877322.js",
+    "runtime-main.js.map": "/React-Product-Page/static/js/runtime-main.54877322.js.map",
+    "static/js/2.26b469b2.chunk.js": "/React-Product-Page/static/js/2.26b469b2.chunk.js",
+    "static/js/2.26b469b2.chunk.js.map": "/React-Product-Page/static/js/2.26b469b2.chunk.js.map",
+    "index.html": "/React-Product-Page/index.html",
+    "static/css/main.340e82d4.chunk.css.map": "/React-Product-Page/static/css/main.340e82d4.chunk.css.map",
+    "static/js/2.26b469b2.chunk.js.LICENSE.txt": "/React-Product-Page/static/js/2.26b469b2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-Product-Page/static/media/p3.9c94e494.jpg",
+    "static/media/p4.97ea9b75.jpg": "/React-Product-Page/static/media/p4.97ea9b75.jpg",
+    "static/media/pic1.0a1fd240.jfif": "/React-Product-Page/static/media/pic1.0a1fd240.jfif",
+    "static/media/pic2.b7496a91.jfif": "/React-Product-Page/static/media/pic2.b7496a91.jfif",
+    "static/media/pic3.e481df37.jfif": "/React-Product-Page/static/media/pic3.e481df37.jfif",
+    "static/media/pic4.60b9e230.jfif": "/React-Product-Page/static/media/pic4.60b9e230.jfif",
+    "static/media/pic5.58b8f201.jfif": "/React-Product-Page/static/media/pic5.58b8f201.jfif",
+    "static/media/pic6.cf745e3f.jfif": "/React-Product-Page/static/media/pic6.cf745e3f.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54877322.js",
+    "static/js/2.26b469b2.chunk.js",
+    "static/css/main.340e82d4.chunk.css",
+    "static/js/main.308a12a8.chunk.js"
+  ]
+}
